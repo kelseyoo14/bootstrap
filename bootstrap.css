@@ -1,0 +1,22 @@
+* {
+    color: purple;
+}
+
+.navbar {
+    background-color: #C1C276;
+}
+
+
+.middle-row {
+    margin: 2em auto;
+    text-align: center;
+}
+
+.mini-titles {
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.navbar-default .navbar-brand {
+    color: #AB1E14;
+}
